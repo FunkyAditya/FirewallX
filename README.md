@@ -1,5 +1,5 @@
 
-# FirewallX
+# ProtectX
 
 A simple Python-based firewall that automatically detects and blocks suspicious IPs based on failed login attempts, using iptables.
 
